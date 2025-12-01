@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/noz43/N_library)
 [![Garry's Mod](https://img.shields.io/badge/Garry's%20Mod-VGUI-orange.svg)](https://store.steampowered.com/app/4000/)
-[![RNDX](https://img.shields.io/badge/Powered%20by-RNDX-purple.svg)]([https://github.com/Niflheim-uk/Coherent-RNDX](https://github.com/Srlion/RNDX/tree/master/src))
+[![RNDX](https://img.shields.io/badge/Link%20for-RNDX-purple.svg)]([https://github.com/Niflheim-uk/Coherent-RNDX](https://github.com/Srlion/RNDX/tree/master/src))
 
 A comprehensive, modern UI component library for Garry's Mod with RNDX rendering engine
 
