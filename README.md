@@ -347,7 +347,3 @@ divider:SetColor(Color(67, 77, 93))
 ```
 
 ---
-
-## License
-
-MIT License - See LICENSE file for details
